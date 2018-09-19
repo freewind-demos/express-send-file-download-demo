@@ -1,14 +1,13 @@
-Express Send Html Demo
-----------------------
+JavaScript JQuery Show Download File Content Demo
+-------------------------------------------------
+
+如何使用jquery来获取一个正常情况下是“下载”的文件的内容。
 
 ```
 npm install
-node index.js
+npm run demo
 ```
 
-Will listen on `3000`.
+然后打开<http://localhost:3000>.
 
-You can visit:
-
-- Render a html file: <http://localhost:3000/index.html>
-- Use a string as html content: <http://localhost:3000/index2.html>
+![demo](./images/demo.jpg)
